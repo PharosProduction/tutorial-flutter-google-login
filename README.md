@@ -1,16 +1,8 @@
-# tutorial
+# tutorial-flutter-google-signin
 
-A new Flutter application.
+Tutorial project on the signin with Google int Flutter Application;
 
-## Getting Started
+## You can find it in our Medium publication
+[Pharos Production Medium Article](https://medium.com/@babenkovladimirbmd/flutter-google-login-using-bloc-pattern-by-android-50102349add4).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Also you're welcome to say hello to us https://pharosproduction.com/
